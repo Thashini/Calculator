@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="History" prefHeight="397.0" prefWidth="322.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <TitledPane fx:id="Calculation_History" prefHeight="22.0" prefWidth="322.0" text="Calculation History" />
+   </children>
+</AnchorPane>
